@@ -1,0 +1,5 @@
+P0001	System Administrator Specialist (MS Exchange, AD Voice)	As our company is growing and we offer more service to our teams, we are looking for a Senior System engineer with a broad set of expertise in Messaging, voice systems, mail gateways, encryption (smile), etc.	2022-07-01
+P0002	IT Security Manager	Establish the Information Security Plan toward to updated ISO Framework as well as in alignment with IT Strategic Plan	2022-07-01
+P0003	(Senior) IT Recruitment Consultant	Developing and maintaining loyal business relationship with them aligning with our company and team business strategies	2022-07-01
+P0004	Senior Network Security Engineer	In this role you will provide Security Subject Matter technical and leadership, expertise, support and consultancy/advice within relevant service levels for several cyber security technology systems and services currently in use across NAB.	2022-07-01
+P0005	Mobile Game Developer	Responsible for QA phase of those large-scale projects (or multi projects) with 7-8 members. Responsibilities are to instruct the team on quality metrics and testing strategies for each project.	2022-07-01
